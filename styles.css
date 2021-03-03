@@ -4,8 +4,8 @@ html, body {
 
 body {
   font-family: 'Kumbh Sans', sans-serif;
-  background: url(Images/bg-pattern-top.svg) no-repeat right 50vw bottom 45vh,
-  url(Images/bg-pattern-bottom.svg) no-repeat left 50vw top 50vh;
+  background: url(images/bg-pattern-top.svg) no-repeat right 50vw bottom 45vh,
+  url(images/bg-pattern-bottom.svg) no-repeat left 50vw top 50vh;
   background-color: hsl(185, 75%, 39%);
 }
 
